@@ -1,0 +1,14 @@
+2022|D22CN|Cong Nghe Thong Tin|
+2022|D22MKT|Maketing|
+2022|D23KT|Ke toan|
+2023|D23DPT|Da Phuong Tien|
+2023|D23DT|Dien tu|
+2023|D23TT|Truyen Thong|
+2024|D24CK|Co Khi|
+2024|D24NNN|Ngon Ngu Nhat|
+2024|D24NNA|Ngon Ngu Anh|
+2025|D25NNH|Ngon Ngu Han|
+2025|D25NNT|Ngon Ngu Trung|
+2025|D25NNP|Ngon Ngu Phap|
+2025|D25TEST|Test|
+2025|D25D24|Hihi|

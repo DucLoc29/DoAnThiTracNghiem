@@ -1,0 +1,24 @@
+﻿  DoHoa.cpp
+  main.cpp
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(15,31): warning C4081: expected 'newline'; found ';'
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(163,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(654,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(903,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(918,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(927,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(934,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(6055,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(6502,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ThongBao.cpp
+  Generating Code...
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(2109,1): warning C4715: 'findMax': not all control paths return a value
+C:\Dev\C++\DO AN THI TRAC NGHIEM\TEST\main.cpp(2119,1): warning C4715: 'findMin': not all control paths return a value
+graphics.lib(dibutil.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(dibutil.obj)' or at ''; linking object as if no debug info
+graphics.lib(drawing.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(drawing.obj)' or at ''; linking object as if no debug info
+graphics.lib(file.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(file.obj)' or at ''; linking object as if no debug info
+graphics.lib(misc.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(misc.obj)' or at ''; linking object as if no debug info
+graphics.lib(mouse.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(mouse.obj)' or at ''; linking object as if no debug info
+graphics.lib(text.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(text.obj)' or at ''; linking object as if no debug info
+graphics.lib(winbgi.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(winbgi.obj)' or at ''; linking object as if no debug info
+graphics.lib(winthread.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(winthread.obj)' or at ''; linking object as if no debug info
+  TEST.vcxproj -> C:\Dev\C++\DO AN THI TRAC NGHIEM\Debug\TEST.exe

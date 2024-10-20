@@ -1,0 +1,5 @@
+D22CN001|Nam|Nguyen Van|Pham|1234|
+D22CN002|Nu|Nguyen Thi|Le|1234|
+D22CN003|Nam|Nguyen Khanh|Tran|1234|
+D22CN004|Nam|Nguyen Hoang|Nguyen|1234|
+D22CN005|Nam|Nguyen Minh|Truong|1234|

@@ -1,0 +1,11 @@
+GT1|Giai Tich 1|
+GT2|Giai Tich 2|
+KNLVN|Ki Nang Lam Viec Nhom|
+KTMT|Kien Truc May Tinh|
+PLDC|Phap Luat Dai Cuong|
+TA1|Tieng Anh 1|
+TA2|Tieng Anh 2|
+TRR1|Toan Roi Rac 1|
+TRR2|Toan Roi Rac 2|
+TTHCM|Tu Tuong Ho Chi Minh|
+XLTHS|Xu Ly Tin Hieu So|

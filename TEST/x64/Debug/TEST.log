@@ -1,0 +1,3 @@
+﻿test.obj : error LNK2019: unresolved external symbol outtextxy referenced in function main
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Dev\TEST\x64\Debug\TEST.exe : fatal error LNK1120: 1 unresolved externals

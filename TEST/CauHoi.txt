@@ -1,0 +1,20 @@
+GT1|Cho ham so y = sin2x - 2x. Ham so nay|Luon dong bien tren R|Chi dong bien tren khoang (0; + vo cuc)|Chi nghich bien tren (- vo cuc; -1)|Luon nghich bien tren R|D|
+GT1|Cho ham so f(x) co dao ham f'(x) = x(x-1)(x+2)2|Ham so f(x) nghich bien tren khoang (- vo cuc;1).|Ham so f(x) dong bien tren cac khoang (- vo cuc;0) và (1;+ vo cuc).|Ham so f(x) dong bien tren cac khoang (- vo cuc;-1) va (1;+ vo cuc).|Ham so f(x) dong bien tren cac khoang (1;+ vo cuc).|D|
+GT1|Khoang nghich bien cua ham so y = x^3/3 - 2x^2 + 3x + 5 la:|(1;3)|(- vo cuc; 1) hop voi (3; + vo cuc)|(- vo cuc; 1) và (3; + vo cuc)|(1;+ vo cuc)|A|
+GT1|Cho ham so y = x^4 - 2x^2 + 3 . Ket luan nao sau day dung?|Ham so nghich bien tren khoang (- vo cuc; -1) hop voi (0; 1)|Ham so dong bien tren khoang (-1; 0) giao voi (1; + vo cuc)|Ham so dong bien tren cac khoang (-1; 0) va (1; + vo cuc)|Ham so nghich bien tren khoang (- vo cuc; -1) giao voi (0; 1)|C|
+GT1|Khoang nghich bien cua ham so y = x^4 - 2x^2 - 1 la:|(- vo cuc; -1) va (0; 1)|(- vo cuc; 0) va (1; + vo cuc)|(- vo cuc; -1) hop voi (0; 1)|(0;1)|C|
+KTMT|Trinh tu xu ly thong tin cua may tinh dien tu la:|CPU -> Dia cung -> Man hinh|Nhan thong tin -> Xu ly thong tin -> Xuat thong tin|CPU -> Ban phim -> Man hinh|Man hinh -> May in -> Dia mem|B|
+KTMT|Bo xu ly gom cac thanh phan khong ke bus ben trong|Khoi dieu khien, Cac thanh ghi, Cong vao ra|Khoi dien khien, ALU, Cac thanh ghi|Cac thanh ghi, DAC, Khoi dieu khien|ALU, Cac thanh ghi, Cong vao ra|B|
+KTMT|Cac thanh phan co ban cua may tinh|RAM, CPU, o dia cung, Bus lien ket|He thong nho, Bus lien ket, ROM, Ban phim|He thong nho, Bo xu ly, Man hinh, Chuot|He thong nho, Bo xu ly, He thong vao ra, Bus lien ket|D|
+KTMT|Cac chuc nang co ban cua may tinh|Luu tru du lieu, Chay chuong trinh, Noi ghep voi TBNV, Truy nhap bo nho|Trao doi du lieu, Dieu khien, Thuc hien lenh, Xu ly du lieu|Luu tru du lieu, Xu ly du lieu, Trao doi du lieu, Dieu khien|Dieu khien, Luu tru du lieu, Thuc hien phep toan, Ket noi Internet|C|
+KTMT|He thong nho cua may tinh bao gom|Cache, Bo nho ngoai|Bo nho ngoai, ROM|Dia quang, Bo nho trong|Bo nho trong, Bo nho ngoai|D|
+PLDC|Van ban nao co hieu luc cao nhat trong HTPL Viet Nam|Phap lenh|Luat|Hien phap|Nghi quyet|C|
+PLDC|Nuoc nao sau day co hinh thuc cau truc nha nuoc lien bang|Viet Nam|Phap|An Do|Ca B va C|C|
+PLDC|So luong tinh, thanh pho truc thuoc trung uong hien nay cua nuoc ta|62|63|64|65|B|
+PLDC|Nha nuoc CHXHCN Viet Nam co hinh thuc cau truc la|Nha nuoc don nhat|Nha nuoc lien bang|Nha nuoc lien minh|Ca A va C deu dung|A|
+PLDC|Ngoai tinh chat giai cap, nha nuoc nao sau day con co vai tro xa hoi:|Nha nuoc XHCN|Nha nuoc XHCN; Nha nuoc tu san|Nha nuoc XHCN; Nha nuoc tu san; Nha nuoc phong kien|Nha nuoc XHCN; Nha nuoc tu san; Nha nuoc phong kien; Chu no|A|
+TA1|"Getting a good job doesn't matter much to me "|"I am only interested in getting a good job."|"It's interesting for me to get a good job."|"I am not good at getting a good job."|"I don't care about getting a good job."|D|
+TA1|John is studying hard. He doesn't want to fail the exam.|John is studying hard in Oder not to fail the next exam|John is studying hard in Oder that he not fail the next exam|John is studying hard so as to fail the next exam|John is studying hard so as to fail the next exam|A|
+TA1|Eating with chopsticks feels strange to Jonathan.|Eating with chopsticks isn’t what Jonathan used to.|Jonathan is not used to eating with chopsticks.|Not feeling strange, Jonathan tries eating with chopsticks.|Jonathan didn’t use to eat with chopsticks.|B|
+TA1|She knows a lot more about it than I do.|I know as much about it as she does.|I do not know as much about it as she does.|She does not know so much about it as I do.|I know much more about it than she does.|B|
+TA1|I wish you hadn't said that|I wish you not to say that.|If only you didn't say tot|I hope you will not say that.|It would be nice if you hadn’t said that.|D|
